@@ -5,7 +5,10 @@ On the internet, always having somewhere is hiding treasure, they're all waiting
 
 **1. Github.io**
 A service which provided a free hosting to you to host static pages. they've clear introduction for usage, but you also have to do more understanding to how to use github and what is git.
-**2. Tent
+>Website: www.github.io
+
+**2. Worldpass**
+**2. Tencent cloud**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
@@ -13,5 +16,5 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEEgRmV3IFdheXMgb2YgVX
 NpbmcgRnJlZSBSZXNvdXJjZXMgdG8gQ3JlYXRlIGEgUGVyc29u
 YWwgV2Vic2l0ZS5cbmF1dGhvcjogSmlhbGluIExpXG50YWdzOi
 BmcmVlXG5jYXRlZ29yaWVzOiByZXNvdXJjZVxuIiwiaGlzdG9y
-eSI6WzE0NzkyOTI0NDYsMTMzMDQ1NDUxXX0=
+eSI6Wzg0OTc2NDU2NywxMzMwNDU0NTFdfQ==
 -->
