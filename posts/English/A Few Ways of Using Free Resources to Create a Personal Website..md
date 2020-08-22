@@ -1,6 +1,8 @@
 
 # A Few Ways of Using Free Resources to Create a Personal Website.
--- leaset updated: da
+
+-- latest updated: 08/22/2020 01:30:45
+
 **Introduction**
 On the internet, always having somewhere is hiding treasure, they're all waiting for you to explore. I'm gonna share a few ways about how to using free resources to create a personal website.
 
@@ -17,5 +19,5 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEEgRmV3IFdheXMgb2YgVX
 NpbmcgRnJlZSBSZXNvdXJjZXMgdG8gQ3JlYXRlIGEgUGVyc29u
 YWwgV2Vic2l0ZS5cbmF1dGhvcjogSmlhbGluIExpXG50YWdzOi
 BmcmVlXG5jYXRlZ29yaWVzOiByZXNvdXJjZVxuIiwiaGlzdG9y
-eSI6Wy0xMDEzMzU4MTE3LDEzMzA0NTQ1MV19
+eSI6WzE3NTI3MjE2MDAsMTMzMDQ1NDUxXX0=
 -->
