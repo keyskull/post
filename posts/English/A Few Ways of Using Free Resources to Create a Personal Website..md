@@ -4,7 +4,7 @@
 On the internet, always having somewhere is hiding treasure, they're all waiting for you to explore. I'm gonna share a few ways about how to using free resources to create a personal website.
 
 **1. Github.io**
-
+A service which provided a free hosting to you to host static pages. they've clear
 
 
 > Written with [StackEdit](https://stackedit.io/).
@@ -13,5 +13,5 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEEgRmV3IFdheXMgb2YgVX
 NpbmcgRnJlZSBSZXNvdXJjZXMgdG8gQ3JlYXRlIGEgUGVyc29u
 YWwgV2Vic2l0ZS5cbmF1dGhvcjogSmlhbGluIExpXG50YWdzOi
 BmcmVlXG5jYXRlZ29yaWVzOiByZXNvdXJjZVxuIiwiaGlzdG9y
-eSI6WzEzMzA0NTQ1MV19
+eSI6Wy0xMzE0MjQ4ODYyLDEzMzA0NTQ1MV19
 -->
