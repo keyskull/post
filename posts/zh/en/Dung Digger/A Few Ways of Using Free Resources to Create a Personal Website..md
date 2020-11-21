@@ -6,7 +6,7 @@
 
 **1. Github.io**一项服务，为您提供免费托管以托管静态页面。他们已经清楚地介绍了用法，但是您还必须对如何使用github和git有更多的了解。
 
-> Introduction page: [https://pages.github.com/](https://pages.github.com/)
+> 介绍页面: [https://pages.github.com/](https://pages.github.com/)
 
 **2. Worldpass**
 **3.腾讯云**
